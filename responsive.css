@@ -7,12 +7,12 @@
 
 
 .container{
-    font-size: 32px;
+    font-size: 28px;
     color: white;
     font-weight: bold;
 }
 .clock{
-    font-size: 15px;
+    font-size: 13px;
     height: 80px;
     margin-top: 200px;
     text-align: center;
@@ -23,7 +23,7 @@
     color: white;
 }
 .develp{
-    font-size: 15px;
+    font-size: 8px;
     height: 280px;
     margin-top: 130px;
     text-align: center;
