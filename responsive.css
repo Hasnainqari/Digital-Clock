@@ -1,0 +1,35 @@
+@media (min-width: 320px) and (max-width: 480px) {
+    body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+
+.container{
+    font-size: 32px;
+    color: white;
+    font-weight: bold;
+}
+.clock{
+    font-size: 15px;
+    height: 80px;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(240, 171, 171);
+}
+.clock:hover{
+  
+    color: white;
+}
+.develp{
+    font-size: 15px;
+    height: 280px;
+    margin-top: 130px;
+    text-align: center;
+    color: rgb(240, 171, 171);
+}
+.develp:hover{
+    color: white;
+}
+}

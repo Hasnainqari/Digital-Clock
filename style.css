@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.container{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 70px;
+
+}
+.clock{
+    height: 80px;
+    margin-top: 200px;
+    text-align: center;
+    color: rgb(240, 171, 171);
+}
+.clock:hover{
+  
+    color: white;
+}
+.develp{
+    height: 280px;
+    margin-top: 130px;
+    text-align: center;
+    color: rgb(240, 171, 171);
+}
+.develp:hover{
+  
+    color: white;
+}
+.container:hover{
+    color:rgb(240, 171, 171); 
+    border: 2px solid white;
+}
