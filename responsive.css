@@ -9,7 +9,7 @@
 .container{
     font-size: 28px;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .clock{
     font-size: 13px;
@@ -20,7 +20,7 @@
 }
 .clock:hover{
   
-    color: white;
+    color: rgb(224, 0, 0);
 }
 .develp{
     font-size: 8px;
